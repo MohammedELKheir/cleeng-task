@@ -62,7 +62,7 @@ Starting The Scheduler for generating statistics
 
 * For Windows 
 
-Modify this line ```cd \path\to\project\``` scheduler.bat file to the project path.
+Modify this line ```cd \path\to\project\``` in scheduler.bat file to the project path.
 
 Create Task in Windows Task Scheduler to this file.
 
