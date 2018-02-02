@@ -85,11 +85,9 @@ Now serve the application
 php artisan serve
 ```
 
-Enter your url at 
+Enter your url at:
 
-```
-http://localhost:8000/charts.
-```
+http://localhost:8000/charts
 
 * For using the rest API
 
@@ -120,13 +118,10 @@ This should return a response like so
       "updated_at": "2018-02-02 09:01:39"
     },
     ...
-    ...
   ]}
 ```
 
-Now try to export statistics CSV file, enter your url at.
+Now try to export statistics CSV file, enter your url at:
 
-```
- http://localhost:8000/exportdata.
+ http://localhost:8000/exportdata
 
-```
