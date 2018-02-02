@@ -13,7 +13,7 @@ First clone the repository
 git clone https://github.com/MohammedELKheir/cleeng-task
 ```
 
-Install dependencies
+``` cd cleeng-task ```  And Install dependencies
 
 ```bash
 composer install
