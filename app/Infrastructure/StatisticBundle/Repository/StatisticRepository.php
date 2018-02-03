@@ -85,7 +85,7 @@ class StatisticRepository implements StatisticInterface
        
 
 
-     public function create($data)
+     public function create(array $data)
     {
         foreach($data as $statistic)
              {
